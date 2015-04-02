@@ -1,0 +1,13 @@
+ body{
+     margin: 20px;
+     background-color: #008080;
+ }
+ 
+ h1{
+     font-family: Comic;
+     color: #FFF;
+     margin: 0px;
+}                                                
+ [if lt IE 9]>
+video { display: none; }
+[endif]
